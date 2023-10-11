@@ -13,7 +13,7 @@ function App() {
       </div>
 
       <footer className='relative bg-[#FFC107]'>
-        <p className='text-black font-black text-center'>05/04 be with you. All icons by <a target="_blank" href="https://icons8.com" className='text-white'>Icons8</a></p>
+        <p className='text-black font-black text-center'>Crafted by <a target="_blank" href="https://github.com/Yusasive" className='text-white'>YUSASIVE</a></p>
       </footer>
     </main>
   )
