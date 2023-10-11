@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Logo from '../assets/svgs/icons8-star-wars-black-orange.svg';
-import { NavLink } from 'react-router-dom';
+
 import Switcher from "./Switcher";
 import ClickAwayListener from 'react-click-away-listener';
 import NavbarLink from './NavbarLink';
@@ -16,12 +16,7 @@ const Navbar = () => {
 
   const links = [
     "Home",
-    "Films",
-    "People",
-    "Planets",
-    "Starships",
-    "Species",
-    "Vehicles"
+    
   ];
 
   return (
